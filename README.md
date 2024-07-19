@@ -11,5 +11,10 @@ We are looking organisational changes within a actor- colab network. Where the n
  -Are duration and content rating relevant to profit?
  -We would like to delve a bit further into look at the evolution of winning combination of crew over time and modelis an emergent phenomena? Is it possible to it ?
  -What is the correlation between budget and profit? 
+We would like to delve a bit further into look at the evolution of winning combination of crew over time and modelis an emergent phenomena? Is it possible to it ?
+What is the correlation between budget and profit? 
+
+
+Need to see whether the interplay of actors into collaborations which generate profit/loss actually can be fitted with monthly box office gross of movies /regional any small industry.
 
 The dynamics of an actor joining a movie is modelled as 
